@@ -23,11 +23,8 @@ This project covers the Week 4 JavaScript fundamentals exercises from IYF Weeken
 - Mini-Project: Student Grade Tracker
 
 ## How to Run
-1. Clone this repository:
-```bash
-git clone https://github.com/Mshi-dev15/iyf-s10-week-04-Mshi-dev15.git
-2.  Open `index.html` in your browser  
-   OR Run `node main.js` in the terminal to test console-based projects
+1. Open `index.html` in your browser  
+2.  OR Run `node main.js` in the terminal to test console-based projects
 
 ## Lessons Learned
 - How to declare and manipulate variables and data types
