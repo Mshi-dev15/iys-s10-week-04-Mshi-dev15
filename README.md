@@ -8,6 +8,10 @@
 ## Project Description
 This project covers the Week 4 JavaScript fundamentals exercises from IYF Weekend Academy. It includes working with variables, data types, operators, functions, control flow, loops, arrays, objects, and mini-projects like an interactive calculator and a student grade tracker.
 
+## 🚀Live Demo
+- [Interactive Calculator](https://Mshi-dev15.github.io/iys-s10-week-04-Mshi-dev15/Interactive%20Calculator.html)
+- [Student Grade Tracker](https://Mshi-dev15.github.io/iys-s10-week-04-Mshi-dev15/Student%20Grader%20Tracker.html)
+
 ## Technologies Used
 - HTML5
 - CSS3
@@ -43,6 +47,3 @@ This project covers the Week 4 JavaScript fundamentals exercises from IYF Weeken
 - Calculating averages and sorting data in the Student Grade Tracker
 - Debugging unexpected outputs from loops and array operations
 
-## Live Demo
-- [Interactive Calculator](https://Mshi-dev15.github.io/iys-s10-week-04-Mshi-dev15/Interactive%20Calculator.html)
-- [Student Grade Tracker](https://Mshi-dev15.github.io/iys-s10-week-04-Mshi-dev15/Student%20Grader%20Tracker.html)
