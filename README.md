@@ -42,3 +42,7 @@ This project covers the Week 4 JavaScript fundamentals exercises from IYF Weeken
 - Understanding the differences between function declarations, expressions, and arrow functions
 - Calculating averages and sorting data in the Student Grade Tracker
 - Debugging unexpected outputs from loops and array operations
+
+## Live Demo
+- [Interactive Calculator](https://Mshi-dev15.github.io/iys-s10-week-04-Mshi-dev15/Interactive%20Calculator.html)
+- [Student Grade Tracker](https://Mshi-dev15.github.io/iys-s10-week-04-Mshi-dev15/Student%20Grader%20Tracker.html)
