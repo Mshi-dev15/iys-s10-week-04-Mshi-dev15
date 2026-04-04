@@ -1,22 +1,35 @@
 # Week 4: JavaScript Fundamentals
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=github&logoColor=white)
+
 ## Author
 - **Name:** Faith Mshiki Kirimi
 - **GitHub:** [@Mshi-dev15](https://github.com/Mshi-dev15)
 - **Date:** March 22, 2026
 
+---
+
 ## Project Description
 This project covers the Week 4 JavaScript fundamentals exercises from IYF Weekend Academy. It includes working with variables, data types, operators, functions, control flow, loops, arrays, objects, and mini-projects like an interactive calculator and a student grade tracker.
+
+---
 
 ## 🚀Live Demo
 - [Interactive Calculator](https://Mshi-dev15.github.io/iys-s10-week-04-Mshi-dev15/Interactive-Calculator.html)
 - [Student Grade Tracker](https://Mshi-dev15.github.io/iys-s10-week-04-Mshi-dev15/Student-Grade-Tracker.html)
+
+---
 
 ## Technologies Used
 - HTML5
 - CSS3
 - JavaScript (ES6)
 - Git & GitHub
+
+---
 
 ## Features
 - Basic JavaScript operations and exercises
@@ -26,9 +39,13 @@ This project covers the Week 4 JavaScript fundamentals exercises from IYF Weeken
 - Mini-Project: Interactive Calculator
 - Mini-Project: Student Grade Tracker
 
+---
+
 ## How to Run
 1. Open `index.html` in your browser  
 2.  OR Run `node main.js` in the terminal to test console-based projects
+
+---
 
 ## Lessons Learned
 - How to declare and manipulate variables and data types
@@ -40,6 +57,8 @@ This project covers the Week 4 JavaScript fundamentals exercises from IYF Weeken
 - Building small interactive projects (Calculator, Grade Tracker)
 - Using Git and GitHub for version control
 
+---
+
 ## Challenges Faced
 - Avoiding duplicate variable and function names which caused runtime errors
 - Managing multiple tasks in one main.js without conflicts
@@ -47,3 +66,9 @@ This project covers the Week 4 JavaScript fundamentals exercises from IYF Weeken
 - Calculating averages and sorting data in the Student Grade Tracker
 - Debugging unexpected outputs from loops and array operations
 
+---
+
+## Screenshots
+![Student Grade Tracker](https://raw.githubusercontent.com/Mshi-dev15/iyf-s10-week-04-Mshi-dev15/main/images/Screenshot_4-4-2026_15130_127.0.0.1(1).jpeg)
+
+![Interactive Calculator](https://raw.githubusercontent.com/Mshi-dev15/iyf-s10-week-04-Mshi-dev15/main/images/Screenshot_4-4-2026_145924_127.0.0.1(1).jpeg)
