@@ -69,6 +69,6 @@ This project covers the Week 4 JavaScript fundamentals exercises from IYF Weeken
 ---
 
 ## Screenshots
-![Student Grade Tracker](https://raw.githubusercontent.com/Mshi-dev15/iyf-s10-week-04-Mshi-dev15/main/images/Screenshot_4-4-2026_153617_127.0.0.1(1).jpeg)
+![Student Grade Tracker](https://raw.githubusercontent.com/Mshi-dev15/iyf-s10-week-04-Mshi-dev15/main/images/student-grade-tracker.jpeg)
 
 ![Interactive Calculator](https://raw.githubusercontent.com/Mshi-dev15/iyf-s10-week-04-Mshi-dev15/main/images/interactive-calculator.jpeg)
